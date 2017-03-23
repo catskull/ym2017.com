@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Press Start 2P', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Press Start 2P', sans-serif;
+}
+
+.main {
+  border-width: 3px;
+  border-color: red;
+  border-style: solid;
+  outline: none;
+  box-shadow: 0 0 30px red;
+}
+
+.content {
+  margin-left: 25px;
+  margin-right: 25px;
+}
