@@ -8,12 +8,17 @@ h1, h2, h3, h4 {
   font-family: 'Press Start 2P', sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 .main {
   border-width: 3px;
-  border-color: red;
+  border-color: #CC0000;
   border-style: solid;
   outline: none;
-  box-shadow: 0 0 30px blue;
+  box-shadow: 0 0 150px #660099;
+  margin-bottom: 10%;
 }
 
 .content {
