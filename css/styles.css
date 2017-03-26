@@ -2,6 +2,7 @@ body {
   background-color: black;
   color: white;
   font-family: 'Press Start 2P', sans-serif;
+  word-wrap: break-word;
 }
 
 h1, h2, h3, h4 {
